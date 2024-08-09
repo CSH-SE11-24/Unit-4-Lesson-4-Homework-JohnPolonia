@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #d1d1ff;
+  font-family: Courier New;
+}
+#div1{
+  background-color: #6385b0;
+  text-align: center;
+}
+#cutedog{
+  width: 60vw;
+}
+h1, h2{
+  text-align: center;
+}
+#stp{
+  text-align: center;
+}
+img{
+  width: 30vw;
+}
+.smalldog{
+ color: #714aa1; 
+}
